@@ -1,5 +1,5 @@
 {
-  "name": "agencednd/google-shopping-connector-bundle",
+  "name": "profit-soft/google-shopping-connector-bundle",
   "type": "symfony-bundle",
   "description": "Dnd bundle to export products from Akeneo PIM to Google Shopping",
   "keywords": ["pim", "dnd", "ecommerce", "e-commerce", "google", "google shopping", "connector", "xml", "flow", "akeneo", "mapping"],
